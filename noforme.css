@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(150, 151, 151);
+    padding-left: 40px;
+    padding-right: 40px;
+  }
+h1 {
+    text-align:right ;
+    
+    color: rgb(219, 32, 7);
+}
+img {
+    border-width: 15px;
+    border-style:inherit;
+    border-color: rgb(255, 0, 0);
+
+  }
+  #bild{
+      background-color: rgba(6, 218, 70, 0.945);
+      border-style: solid;
+      border-color: red;
+      border-width: 4px;
+      padding-top: 15px;
+      padding-bottom: 4px;
+  }
+  table, th, td {
+        border: 1px solid black;
+        border-collapse: collapse;
+        
+      }
+.L {
+    background-color: rgb(255, 208, 1);
+}
+  
